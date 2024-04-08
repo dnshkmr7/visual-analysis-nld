@@ -30,6 +30,13 @@ This constructs the bifurcation diagram of logistic map, there are no input prom
 
 # References
 
-Yang, W.Y., Cao, W., Chung, T-S., and Morris, J., ed. (2005) Applied numerical methods using MATLAB. 2nd ed. New Jersey: Wiley
-
-Boeing, G. 2016. “Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction.” Systems, 4 (4), 37. DOI: [10.3990/systems4040037](http://dx.doi.org/10.3390/systems4040037)
+[1] Robert M. May. Simple mathematical models with very complicated dynamics. Nature, 261(5560):459–467, jun 1976.
+[2] John H. Mathews and Kurtis K. Fink. Numerical Methods Using Matlab (4th Edition). Pearson, 4 edition, January 2004.
+[3] D. Muller, J. Hyman . This equation will change how you see the world (the logistic map).https://www.youtube.com/watch?v=ovJcsL7vyrk.
+[4] Geoff Boeing. Visual analysis of nonlinear dynamical systems: Chaos, fractals, self-similarity and the limits of prediction. Systems, 4(4), 2016.
+[5] P. Nathan. Logistic map zoom at the boundary between order and chaos. https://www.youtube.com/watch?v=rrqiYHuNnbo. 
+[6] A. Libchaber, C. Laroche, and Stephan Fauve. Period doubling cascade in mercury, a quantitative measurement. 43, 04 1982.
+[7] Daniel W. Crevier and Markus Meister. Synchronous period doubling in flicker vision of salamander and man. Journal of neurophysiology, 79 4:1869–78, 1998.
+[8] Bing Jia, Hua-Guang Gu, Li Li, and Xiaoyan Zhao. Dynamics of perioddoubling bifurcation to chaosin the spontaneous neural firing patterns. Cognitive neurodynamics, 6:89–106, 02 2012.
+[9] Dante Chialvo, Robert Gilmour, and Jose Jalife. Low dimensional chaos in cardiac tissue. Nature, 343:653–7, 03 1990.
+[10] Steven H. Strogatz. Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry and Engineering. Westview Press, 2000.
