@@ -6,7 +6,7 @@ Used MATLAB R2022a-academic use to study and visualise:
 
 in non-linear systems specifically logistic map.
 
-Report explaining the logistic map can be found [here](https://github.com/dnshkmr7/visual-analysis-nld/blob/main/Report.pdf).
+Report explaining the logistic map can be found [here](https://github.com/dnshkmr7/visual-analysis-nld/blob/main/EP3227_Project_Report.pdf).
 
 # Usage
 
